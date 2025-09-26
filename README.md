@@ -41,7 +41,8 @@ MRI görüntülerinden beyin tümörü türlerini sınıflandıran derin öğren
 ## 📁 Proje Yapısı
 
 ## 🔗 Kaggle Notebook
-[Brain Tumor MRI Classification - Kaggle Notebook] https://www.kaggle.com/code/helifesen/notebook4e1c9bc838/edit
+[Brain Tumor MRI Classification - Kaggle Notebook] https://www.kaggle.com/code/helifesen/notebook4e1c9bc838/edit 
+https://www.kaggle.com/code/helifesen/notebook4e1c9bc838/edit
 ## 🚀 Kurulum ve Çalıştırma
 1. Kaggle hesabı oluşturun
 2. Veri setini projenize ekleyin
