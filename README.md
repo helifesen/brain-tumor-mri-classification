@@ -57,3 +57,4 @@ MRI görüntülerinden beyin tümörü türlerini sınıflandıran derin öğren
 
 ## 👨‍💻 Geliştirici
 **Akbank Derin Öğrenme Bootcamp Final Projesi**
+ilerleyen süreçte beyin tümörü dışındaki hastalıkları da tespit edem bir proje yapmak istiyorum. Ve hazırladığım bu projeyi geliştirmeye devam etmek istiyorum.
